@@ -10,6 +10,6 @@
     pkgs = import nixpkgs { system = "x86_64-linux"; };
   in
   {
-    packages.x86_64-linux.default = pkgs.callPackage ./nix/default.nix { nixpkgs = pkgs; };
+    packages.x86_64-linux.default = pkgs.callPackage ./nix/default.nix { };
   };
 }
