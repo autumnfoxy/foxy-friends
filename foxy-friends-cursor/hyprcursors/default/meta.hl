@@ -1,6 +1,0 @@
-hotspot_x = 0.0
-hotspot_y = 0.0
-define_override = arrow;pointer;
-define_size = 32, left_ptr001.png, 250
-define_size = 32, left_ptr002.png, 250
-
