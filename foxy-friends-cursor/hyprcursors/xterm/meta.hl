@@ -1,0 +1,4 @@
+hotspot_x = 0.5
+hotspot_y = 0.5
+define_size = 32, xterm.png
+resize_algorithm = bilinear
